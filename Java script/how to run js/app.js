@@ -1,4 +1,4 @@
-console.log("Hello from javascript!");
-function showalert(){
-    alert("Hello cse 22");
+console.log("hello from javascript")
+function showAlert(){
+    alert("hello cse 22");
 }
